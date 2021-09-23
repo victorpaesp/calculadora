@@ -34,14 +34,27 @@
     border-radius: 100px;
 }
 
+.btn:hover{
+    background-color: #616161;
+}
+
 .btn__direita {
     background-color: #ff9e0a;
     font-size: 30px;
 }
 
+.btn__direita:hover{
+    background-color: #fff;
+    color: #ff9e0a;
+}
+
 .btn__cima {
     background-color: #a5a5a5;
     color: black;
+}
+
+.btn__cima:hover{
+    background-color: #d0d0d0;
 }
 
 
